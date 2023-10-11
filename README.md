@@ -10,9 +10,9 @@ Um projeto de teste com um arquivo README 🚀
 
 ## como utilizar
 
-1-Crie uma pasta e abra o gitbash nela
+1-Crie uma pasta e abra o gitbash nela.
 
-2-Digite esse comando e no final bote a url do projeto.
+2-Digite esse comando e no final ponha a url do projeto.
 ``````
 git clone <url>
-``````
+`````` 
